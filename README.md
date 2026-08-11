@@ -1,2 +1,2 @@
 # UPES-100-Days-Of-Code-2026
-My personal journey through the #100DaysOfCode challenge. Documenting daily progress, code snippets, and projects built over the next 100 days.
+My personal journey through the #100DaysOfCode challenge. Documenting daily progress, code snippets built over the next 100 days.
